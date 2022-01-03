@@ -425,6 +425,9 @@
   margin: 0 4px;
   transition: 0.3s;
 }
+.footer-icon ul li a:hover{
+  transform: scale(1.15);
+}
 /*social icon end*/
 .footer{
   margin-top: 100px;
